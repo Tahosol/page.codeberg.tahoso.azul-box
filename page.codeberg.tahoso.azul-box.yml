@@ -33,6 +33,5 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/Tahoso/azul-box.git
-        tag: "v0.2.2"
-        commit: "3636bfb23b77f4257c80cb971e4bf7b9bc7fdbb0"
+        commit: "a5e7049b65d9d9347949dc50edfebf706323a0f6"
       - cargo-sources.json
