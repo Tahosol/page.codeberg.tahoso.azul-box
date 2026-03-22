@@ -33,5 +33,5 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/Tahoso/azul-box.git
-        commit: "04f33b1a55f0bc8a12fa700268331cbd97496527"
+        commit: "1fa812ac84a33449efd4a062c3b3e47625658252"
       - generated-sources.json
